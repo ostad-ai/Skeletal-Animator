@@ -7,7 +7,7 @@ This is the **v0.0 release** of the Skeletal Animator.
 ---
 <table>
 <tr>
-<td><img src="./Media/ver-0-0.jpg" alt="A snapshot of the Skeletal Animator, version 0.0" width="400">Figure 1. A snapshot of the Skeletal Animator, version 0.0
+<td><img src="./Media/ver-0-0.jpg" alt="A snapshot of the Skeletal Animator, version 0.0" width="400"><br>Figure 1. A snapshot of the Skeletal Animator, version 0.0
 </td>
 </tr>
 </table>
