@@ -18,9 +18,9 @@ This is the **v0.0 release** of the Skeletal Animator.
 
 ## 📥 Download the App (Windows)
 
-The main application is provided as a standalone Windows executable. You don't need Python installed to use it!
+The main application is provided as a standalone Windows executable (for Windows 10 and over). You don't need Python installed to use it!
 
-**[⬇️ Download skeletal_animator.exe](https://drive.google.com/file/d/1vNWXwKJO2ntFVMG5XO_o517zo4Sk6VGG/view?usp=sharing)**
+**[⬇️ Download skeletal_animator.exe](https://github.com/ostad-ai/Skeletal-Animator/releases/tag/v0.0)**
 
 1. Download the `.exe` file.
 2. Double-click to run.
