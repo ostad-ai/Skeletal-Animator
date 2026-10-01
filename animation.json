@@ -1,0 +1,14 @@
+{
+    "image": "animation.png",
+    "frame_width": 400,
+    "frame_height": 400,
+    "columns": 8,
+    "rows": 4,
+    "total_frames": 30,
+    "fps": 12,
+    "bones": {
+        "0": "bone_0",
+        "1": "bone_1",
+        "2": "bone_2"
+    }
+}
