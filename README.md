@@ -32,14 +32,15 @@ The main application is provided as a standalone Windows executable (for Windows
 
 ---
 
-🆕 What's New in v0.1?
+## 🆕 What's New in v0.1?
 
-    Pos-Only Link: A new dropdown option in the toolbar. Link bones by position only, keeping their rotation independent. Perfect for torches, guns, or floating UI elements that shouldn't rotate with the hand!
-    Grid Toggle: Press Ctrl+G (or use the View menu) to instantly show or hide the canvas grid.
-    Camera Controls: Precise Cam X/Y/W/H spinboxes added to the toolbar for exact camera positioning.
-    Smooth Zoom: High-precision zoom that feels buttery smooth on trackpads and mice.
-    Bug Fixes: Fixed bone orientation loss when parenting, fixed timeline range syncing, and various UI polish improvements
+- **Pos-Only Link:** A new dropdown option in the toolbar. Link bones by position only, keeping their rotation independent. Perfect for torches, guns, or floating UI elements that shouldn't rotate with the hand!
+- **Grid Toggle:** Press `Ctrl+G` (or use the View menu) to instantly show or hide the canvas grid.
+- **Camera Controls:** Precise `Cam X/Y/W/H` spinboxes added to the toolbar for exact camera positioning.
+- **Smooth Zoom:** High-precision zoom that feels buttery smooth on trackpads and mice.
+- **Bug Fixes:** Fixed bone orientation loss when parenting, fixed timeline range syncing, and various UI polish improvements.
 
+---
 
 ## ✨ Features
 
