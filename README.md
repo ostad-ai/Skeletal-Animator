@@ -1,10 +1,10 @@
-🦴 Skeletal Animator (v0.1)
+# 🦴 Skeletal Animator (v0.1)
 
 A professional, offline 2D cutout animation tool for animators and game developers. Build flexible bone skeletons, attach sprites or primitive shapes, and bring your characters to life using an intuitive timeline, FABRIK Inverse Kinematics, and cinematic camera keyframing.
 
 Whether you are rigging a character for an indie game or creating a smooth 2D animation, Skeletal Animator provides a complete studio environment. Export your work as standard spritesheets (PNG+JSON) for your game engine, or render high-quality videos (MP4, WebM, GIF) with transparent background support!
 
-This is the v0.1 release of the Skeletal Animator
+This is the **v0.1 release** of the Skeletal Animator.
 
 ---
 <table>
