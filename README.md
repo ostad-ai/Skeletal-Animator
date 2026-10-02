@@ -1,13 +1,17 @@
-# 🦴 Skeletal Animator (v0.0)
+🦴 Skeletal Animator (v0.1)
 
-A professional, offline 2D cutout animation tool for animators and game developers. Build skeletons, attach sprites, and bring your characters to life using an intuitive timeline and inverse kinematics. 
+A professional, offline 2D cutout animation tool for animators and game developers. Build flexible bone skeletons, attach sprites or primitive shapes, and bring your characters to life using an intuitive timeline, FABRIK Inverse Kinematics, and cinematic camera keyframing.
 
-This is the **v0.0 release** of the Skeletal Animator.
+Whether you are rigging a character for an indie game or creating a smooth 2D animation, Skeletal Animator provides a complete studio environment. Export your work as standard spritesheets (PNG+JSON) for your game engine, or render high-quality videos (MP4, WebM, GIF) with transparent background support!
+
+This is the v0.1 release of the Skeletal Animator
 
 ---
 <table>
 <tr>
-<td><img src="./Media/ver-0-0.jpg" alt="A snapshot of the Skeletal Animator, version 0.0" width="400"><br>Figure 1. A snapshot of the Skeletal Animator, version 0.0
+<td><img src="./Media/ver-0-0.jpg" alt="A snapshot of the Skeletal Animator, version 0.0" width="400">Figure 1. A snapshot of the Skeletal Animator, version 0.0
+</td>
+<td><img src="./Media/ver-0-0.jpg" alt="A snapshot of the Skeletal Animator, version 0.1" width="400">Figure 2. A snapshot of the Skeletal Animator, version 0.1
 </td>
 </tr>
 </table>
@@ -20,13 +24,22 @@ This is the **v0.0 release** of the Skeletal Animator.
 
 The main application is provided as a standalone Windows executable (for Windows 10 and over). You don't need Python installed to use it!
 
-**[⬇️ Download skeletal_animator.exe](https://github.com/ostad-ai/Skeletal-Animator/releases/tag/v0.0)**
+**[⬇️ Download skeletal_animator.exe](https://github.com/ostad-ai/Skeletal-Animator/releases/tag/v0.1)**
 
 1. Download the `.exe` file.
 2. Double-click to run.
 3. Start animating immediately!
 
 ---
+
+🆕 What's New in v0.1?
+
+    Pos-Only Link: A new dropdown option in the toolbar. Link bones by position only, keeping their rotation independent. Perfect for torches, guns, or floating UI elements that shouldn't rotate with the hand!
+    Grid Toggle: Press Ctrl+G (or use the View menu) to instantly show or hide the canvas grid.
+    Camera Controls: Precise Cam X/Y/W/H spinboxes added to the toolbar for exact camera positioning.
+    Smooth Zoom: High-precision zoom that feels buttery smooth on trackpads and mice.
+    Bug Fixes: Fixed bone orientation loss when parenting, fixed timeline range syncing, and various UI polish improvements
+
 
 ## ✨ Features
 
