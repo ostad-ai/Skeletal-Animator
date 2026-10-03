@@ -11,7 +11,7 @@ This is the **v0.1 release** of the Skeletal Animator.
 <tr>
 <td><img src="./Media/ver-0-0.jpg" alt="A snapshot of the Skeletal Animator, version 0.0" width="400">Figure 1. A snapshot of the Skeletal Animator, version 0.0
 </td>
-<td><img src="./Media/ver-0-0.jpg" alt="A snapshot of the Skeletal Animator, version 0.1" width="400">Figure 2. A snapshot of the Skeletal Animator, version 0.1
+<td><img src="./Media/ver-0-1.jpg" alt="A snapshot of the Skeletal Animator, version 0.1" width="400">Figure 2. A snapshot of the Skeletal Animator, version 0.1
 </td>
 </tr>
 </table>
