@@ -34,23 +34,16 @@ The main application is provided as a standalone Windows executable (for Windows
 
 ## 🆕 What's New in v0.2?
 
-    Multiple Skins: Create and switch between multiple outfits per character (base, summer, winter, etc.).
-    Bone Layers: Assign bones to Layer 0-3 and toggle visibility per layer.
-    Custom Polygon Tool: Draw custom shapes, edit vertices, add/delete points on the fly.
-    Pattern Fill: Fill primitives and polygons with texture images instead of solid colors.
-    Audio Import & Lip-Sync: Import audio, sync with timeline, set FPS and Audio Offset.
-    Bone Outliner: Hierarchy tree panel for selecting bones by name.
-    Properties Panel: Edit bone properties (Length, Angle, Position, Z-Index, Visibility) with exact numbers.
-    Mirror Tool: Mirror bones horizontally or vertically with perfect skin and angle mirroring.
-    Reset Pose (Ctrl+R): Snap all bones back to 0° in one click.
-    Pos-Only Link: Link bones by position only, keeping rotation independent.
-    Camera Controls: Precise Cam X/Y/W/H spinboxes. Camera position is now saved in project files.
-    Smooth Zoom: High-precision zoom that feels buttery smooth on trackpads.
-    Focus Mode (F): Hide all panels for maximum canvas space.
-    Timeline Toggle (T): Show/hide the timeline instantly.
-    Mouse Coordinates: Real-time cursor coordinates displayed in the status bar.
-    Video Export with Audio: Exported videos now include imported audio!
-    Bug Fixes: Fixed bone orientation loss when parenting, fixed timeline range syncing, improved UI layout, and more.
+- **Multiple Skins:** Create and switch between multiple outfits per character (base, summer, winter, etc.).
+- **Custom Polygon Tool:** Draw custom shapes, edit vertices, add/delete points on the fly.
+- **Pattern Fill:** Fill primitives and polygons with texture images instead of solid colors.
+- **Audio Import & Lip-Sync:** Import audio files, sync them with the timeline, and set FPS/Audio Offset for perfect playback.
+- **Bone Outliner:** A hierarchy tree panel to easily select and manage bones by name.
+- **Properties Panel:** Edit bone properties (Length, Angle, Position, Z-Index, Visibility) with exact numbers.
+- **Bone Layers:** Assign bones to Layer 0-3 and toggle visibility per layer.
+- **Mirror Tool:** Mirror bones horizontally or vertically with perfect skin and angle mirroring.
+- **Video Export with Audio:** Exported videos now include imported audio!
+- **Bug Fixes:** Fixed bone orientation loss when parenting, fixed timeline range, improved UI layout, and more.
 
 ---
 
@@ -66,20 +59,19 @@ The main application is provided as a standalone Windows executable (for Windows
 
 ## ✨ Features
 
-    Rigging & IK: Create bone chains, parent them with attachment offsets (Along/Across), and use Inverse Kinematics to automatically bend limbs naturally.
-    Pos-Only Link: Link bones by position only, keeping their rotation independent. Perfect for torches, guns, or floating UI elements.
-    Skinning: Import PNG sprites or generate primitive shapes (Rectangle, Capsule, Circle, Custom Polygons) with custom colors, pattern fills, and non-uniform scaling (W/H).
-    Polygon Tool: Draw custom shapes by clicking points on the canvas. Edit vertices, add new ones on edges, or delete them by double-clicking!
-    Multiple Skins: Create multiple outfits for your character (base, summer, winter, armor). Switch between skins instantly from the toolbar!
-    Bone Layers: Assign bones to Layer 0-3. Toggle visibility per layer to hide weapons, clothes, or background characters.
-    Animation Studio: Professional timeline with Keyframes, Easing (Linear, Ease In, Out, In-Out), and Onion Skinning (adjustable past/future ghosts).
-    Camera & Visibility: Keyframe a camera viewport (Clip Window) to pan and zoom across your animation. Set visibility ranges so bones only appear on specific frames.
-    Audio Import & Lip-Sync: Import audio files (MP3, WAV, OGG) and sync them with the timeline. Set FPS and Audio Offset for perfect synchronization. Ideal for manual lip-sync workflows!
-    Mirror Tool: Mirror bones horizontally (Ctrl+M) or vertically (Ctrl+Shift+M). Skins, angles, and offsets are perfectly mirrored!
-    Workspace: Bone Outliner (hierarchy tree), Properties Panel (exact numerical editing), Focus Mode (F) for maximum canvas space, and Timeline Toggle (T).
-    Export:
-        Spritesheet: PNG grid + metadata JSON for your game engine.
-        Video: MP4, WebM, MOV, or GIF. Supports transparent backgrounds for game engines. Audio is baked into video exports!
+- **Rigging & IK:** Create bone chains, parent them with attachment offsets, and use Inverse Kinematics to automatically bend limbs naturally. Includes Pos-Only links for torches/guns.
+- **Skinning:** Import PNG sprites, generate primitive shapes (Rect, Capsule, Circle), or draw custom Polygons. Supports non-uniform scaling and texture pattern fills.
+- **Multiple Skins:** Create multiple outfits for your character (base, summer, winter, armor). Switch between skins instantly from the toolbar!
+- **Bone Layers:** Assign bones to Layer 0-3. Toggle visibility per layer to hide weapons, clothes, or background characters.
+- **Animation Studio:** Professional timeline with Keyframes, Easing (Linear, Ease In, Out, In-Out), and Onion Skinning (adjustable past/future ghosts).
+- **Camera & Visibility:** Keyframe a camera viewport (Clip Window) to pan and zoom across your animation. Set visibility ranges so bones only appear on specific frames.
+- **Audio Import & Lip-Sync:** Import audio files (MP3, WAV, OGG) and sync them with the timeline. Set FPS and Audio Offset for perfect synchronization. Ideal for manual lip-sync workflows!
+- **Mirror Tool:** Mirror bones horizontally (Ctrl+M) or vertically (Ctrl+Shift+M). Skins, angles, and offsets are perfectly mirrored!
+- **Workspace:** Bone Outliner (hierarchy tree), Properties Panel (exact numerical editing), Focus Mode (F) for maximum canvas space, and Timeline Toggle (T).
+- **Export:**
+  - **Spritesheet:** PNG grid + metadata JSON for your game engine.
+  - **Video:** MP4, WebM, MOV, or GIF. Supports transparent backgrounds for game engines. Audio is baked into video exports!
+
 ---
 
 ## 💻 For Developers: Python Demo
