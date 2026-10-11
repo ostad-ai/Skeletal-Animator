@@ -32,7 +32,7 @@ The main application is provided as a standalone Windows executable (for Windows
 
 ---
 
-🆕 What's New in v0.2?
+## 🆕 What's New in v0.2?
 
     Multiple Skins: Create and switch between multiple outfits per character (base, summer, winter, etc.).
     Bone Layers: Assign bones to Layer 0-3 and toggle visibility per layer.
@@ -64,7 +64,7 @@ The main application is provided as a standalone Windows executable (for Windows
 
 ---
 
-✨ Features
+## ✨ Features
 
     Rigging & IK: Create bone chains, parent them with attachment offsets (Along/Across), and use Inverse Kinematics to automatically bend limbs naturally.
     Pos-Only Link: Link bones by position only, keeping their rotation independent. Perfect for torches, guns, or floating UI elements.
