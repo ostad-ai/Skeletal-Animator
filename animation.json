@@ -3,12 +3,27 @@
     "frame_width": 400,
     "frame_height": 400,
     "columns": 8,
-    "rows": 4,
-    "total_frames": 30,
-    "fps": 12,
+    "rows": 8,
+    "total_frames": 60,
+    "fps": 30,
     "bones": {
-        "0": "bone_0",
-        "1": "bone_1",
-        "2": "bone_2"
+        "0": "Neck",
+        "1": "UArm",
+        "2": "LArm",
+        "3": "Hand",
+        "4": "Pelvis",
+        "5": "Spine",
+        "6": "Thigh",
+        "7": "Lleg",
+        "8": "Foot",
+        "9": "Head",
+        "10": "Gun",
+        "11": "UArm_mirror",
+        "12": "LArm_mirror",
+        "13": "Hand_mirror",
+        "14": "Gun_mirror",
+        "15": "Thigh_mirror",
+        "16": "Lleg_mirror",
+        "17": "Foot_mirror"
     }
 }
