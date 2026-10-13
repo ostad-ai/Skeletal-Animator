@@ -1,10 +1,10 @@
-🦴 Skeletal Animator (v0.2)
+🦴 Skeletal Animator (v0.2.1)
 
 A professional, offline 2D cutout animation studio for animators and game developers. Build flexible bone skeletons, attach sprites or custom polygons, and bring your characters to life using an intuitive timeline, Inverse Kinematics, audio sync, and cinematic camera keyframing.
 
 Whether you are rigging a character for an indie game, creating a smooth 2D animation, or setting up lip-sync with audio, Skeletal Animator provides a complete studio environment. Export your work as standard spritesheets (PNG+JSON) for your game engine, or render high-quality videos (MP4, WebM, GIF) with transparent background support and baked-in audio!
 
-This is the v0.2 release of the Skeletal Animator.
+This is the v0.2.1 release of the Skeletal Animator.
 
 ---
 <table>
@@ -16,7 +16,11 @@ This is the v0.2 release of the Skeletal Animator.
 </tr>
 </table>
 
-
+<tr>
+<td>
+<img src="./Media/ver-0-2.jpg" alt="A snapshot of the Skeletal Animator, version 0.2.1" width="400">Figure 3. A snapshot of the Skeletal Animator, version 0.2.1
+</td>
+</tr>
 ---
 
 
@@ -24,11 +28,21 @@ This is the v0.2 release of the Skeletal Animator.
 
 The main application is provided as a standalone Windows executable (for Windows 10 and over). You don't need Python installed to use it!
 
-**[⬇️ Download skeletal_animator.exe](https://github.com/ostad-ai/Skeletal-Animator/releases/tag/v0.2)**
+**[⬇️ Download skeletal_animator.exe](https://github.com/ostad-ai/Skeletal-Animator/releases/tag/v0.2.1)**
 
 1. Download the `.exe` file.
 2. Double-click to run.
 3. Start animating immediately!
+
+---
+
+## 🆕 What's New in v0.2.1?
+
+- **Unlink Bone:** You can now easily detach a bone from its parent (`Ctrl+U`) without losing its current position or angle!
+- **Mirror Tool Overhaul:** Fixed mirroring child bones. You can now perfectly mirror complex chains (like an arm attached to a torso), regardless of how the parent is rotated. Attachment offsets (Along/Across) are now correctly reflected.
+- **Properties Panel - Layers:** You can now change a bone's Layer assignment directly from the Properties Panel, making it much easier to organize your rig.
+- **Audio Fixes:** Fixed an issue where the audio indicator stayed on the canvas after removing audio. Also fixed a bug where audio would unexpectedly stop during playback.
+- **App Icon:** Fixed the Windows taskbar and executable icon not displaying correctly.
 
 ---
 
