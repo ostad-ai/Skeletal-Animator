@@ -21,6 +21,7 @@ This is the v0.2.1 release of the Skeletal Animator.
 <img src="./Media/ver-0-2.jpg" alt="A snapshot of the Skeletal Animator, version 0.2.1" width="400">Figure 3. A snapshot of the Skeletal Animator, version 0.2.1
 </td>
 </tr>
+
 ---
 
 
